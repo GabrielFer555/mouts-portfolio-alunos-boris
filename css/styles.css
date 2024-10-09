@@ -11387,3 +11387,16 @@ body {
   width: 100px;
   height: 200px;
 }
+
+@media (max-width: 450px) {
+
+.link_wrapper {
+    margin-top: 6rem; 
+    width: 100%; 
+    text-align: center;
+}
+
+.lead {
+    font-size: 1rem;
+}
+}
