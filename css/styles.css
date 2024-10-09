@@ -11167,9 +11167,6 @@ footer a:hover, footer a:active, footer a:focus {
 
 .wrapper{
   position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
 }
 
 .link_wrapper{
