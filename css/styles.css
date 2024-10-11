@@ -10834,7 +10834,7 @@ html {
 }
 
 .bg-gradient-primary-to-secondary {
-  background: linear-gradient(45deg, #2937f0, #9f1ae2) !important;
+  background: linear-gradient(117.5deg, rgb(89, 233, 162) 20.5%, rgb(29, 209, 185) 100.2%);
 }
 
 .font-alt {
@@ -11396,4 +11396,9 @@ body {
 .lead {
     font-size: 1rem;
 }
+}
+.carousel-item img {
+  max-height: 450px; /* Set a maximum height */
+  object-fit: cover; /* Ensures the image covers the area without stretching */
+  border-radius: 10px;
 }
