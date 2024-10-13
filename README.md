@@ -2,7 +2,7 @@
 
 Este projeto é uma landing page desenvolvida e responsiva com o intuito de apresentar os projetos e um pouco mais da turma Vespertina do Mouts Academy.
 
-Link para acesso: professorboris.com.br
+Link para acesso: [professorboris.com.br](http://professorboris.com.br/)
 
 ## 🛠️ Ferramentas
 
